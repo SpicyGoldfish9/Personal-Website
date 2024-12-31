@@ -13,7 +13,7 @@ The website is styled with `style.css`
 
 ## 🌐 Live Website
 
-You can view the live version of the website here: [Personal Website](https://SpicyGoldfish9.github.io/personal-website/)
+You can view the live version of the website here: [Personal Website](https://SpicyGoldfish9.github.io/Personal-Website/)
 
 ## 🚀 Features
 
