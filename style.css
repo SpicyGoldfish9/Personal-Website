@@ -1,0 +1,164 @@
+body{
+    background-color: bisque;
+}
+
+.main-nav{
+    padding: 15px 0;
+}
+
+.main-nav ul{
+    list-style-type: none; /* removes the bullets */
+    padding: 0;
+    margin: 0;
+    display: flex; /* makes them appear in a row */
+    justify-content: center;
+}
+
+.main-nav li{
+    font-family: 'Trebuchet MS', sans-serif;
+    margin: 0 15px;
+}
+
+.main-nav a{
+    text-decoration: none; /* removes the underline from the links */
+    color: black;
+    padding: 10px 15px;
+}
+
+.main-nav a:hover {
+    background-color: coral; /* Change background color on hover */
+    color: black; /* Keep text black */
+}
+
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: green;
+}
+
+#roles{
+    text-align: center;
+    color: green;
+}
+
+#name{
+    text-align: center;
+}
+
+.headshot {
+    max-width: 100%; /* Ensure the image does not exceed the column width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Optional: makes the image circular */
+}
+
+.card{
+    background-color:skyblue; /* or azure */
+}
+
+.projectDescription{
+    text-align: center;
+}
+.projectName{
+    text-align: center;
+}
+/* later on give the images a class so I can do it all in 1 */ 
+.project_img{
+    width: 100%;
+    height: 700px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+#volleyballTeam{
+    text-decoration: none;
+    text-align: center;
+}
+
+.experienceSection{
+    padding: 50px;
+}
+
+.experience_img{
+    display: flex; /* need this to use justify-content and align-items */
+    justify-content: center; /* horizontally centering */
+    align-items: center; /* vertically centering */
+}
+
+h2.experienceTitle{
+    color: black;
+}
+
+#ta_img{
+    margin-top: 45px;
+}
+
+#acsl_experience{
+    margin-top: 30px;
+}
+
+#About{
+    margin-bottom: 150px;
+}
+
+#introduction{
+    padding-top: 120px;
+}
+
+.skills_section{
+    padding-bottom: 150px;
+}
+
+#python_img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    padding-top: 75px;
+}
+#java_img{
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+}
+#trifecta_img{
+    padding-top: 100px;
+}
+
+.skillsTitle{
+    text-align: center;
+}
+
+#vsCodeImage{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+
+
+#eclipseImage{
+    padding-top: 15px;
+}
+
+#githubImage{
+    padding-top: 15px;
+}
+
+#progLangTitle{
+    padding-top: 150px;
+}
+
+#techFrameTitle{
+    padding-top: 65px;
+}
+
+#devToolsTitle{
+    padding-top: 85px;
+}
+
+.techFrameImage{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+
