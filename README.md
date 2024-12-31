@@ -1,11 +1,11 @@
 # Personal Website
 
-Welcome to my personal website! This project contains the code for a simple personal site hosted using [GitHub Pages](https://pages.github.com/).
+Welcome to my personal website! This project contains the code for a simple personal website hosted using [GitHub Pages](https://pages.github.com/).
 
 ## 📄 Pages
 
 - **Home**: The main landing page of the website (`index.html`)
-- **Gallery**: A page showcasing images (`images.html`)
+- **Gallery**: A page showcasing my OC volleyball team (`images.html`)
 
 ## 🎨 Styles
 
