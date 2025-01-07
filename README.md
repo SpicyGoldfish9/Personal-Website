@@ -29,11 +29,11 @@ You can view the live version of the website here: [Personal Website](https://Sp
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/personal-website.git
+   git clone https://github.com/SpicyGoldfish9/Personal-Website.git
    ```
 2. Navigate to the Project Directory:
    ```
-   cd personal-website
+   cd Personal-Website
    ```
 3. Open the Project in Your Browser:
    ```
